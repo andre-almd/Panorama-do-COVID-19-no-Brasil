@@ -40,3 +40,6 @@ A fonte principal dos dados utilizados pelo OWID é o **Centro de Ciência e Eng
 1 - Os dados referentes a esta aálise foram baixados no dia **16/08/2022**.
 
 2 - Os dados de casos confirmados e óbitos são coletados pela Johns Hopkins University por data de relatório, em vez de data de teste/óbito. Portanto, o número que eles relatam em um determinado dia não representa necessariamente o número real naquela data, devido à longa cadeia de notificação que existe entre um novo caso/óbito e sua inclusão nas estatísticas. Isso também significa que as séries temporais podem mostrar mudanças repentinas (negativas ou positivas) quando um país corrige dados históricos, porque anteriormente havia sub ou superestimado o número de casos/óbitos.
+
+---
+**Veja antecipadamente o gráfico de corrida gerado na análise:**
