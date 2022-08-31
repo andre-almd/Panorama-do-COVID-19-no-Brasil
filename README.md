@@ -43,3 +43,12 @@ A fonte principal dos dados utilizados pelo OWID é o **Centro de Ciência e Eng
 
 ---
 **Veja antecipadamente o gráfico de corrida gerado na análise:**
+
+**Países com mais mortes:**
+
+https://user-images.githubusercontent.com/47365050/187788372-9872821a-a61b-4f1e-9b8e-38a5ee5afa7f.mp4
+
+**Países com mais mortes, por milhão de pessoas:**
+
+https://user-images.githubusercontent.com/47365050/187788572-82f45ea8-2f97-4953-ac5f-3c6c6e191ca5.mp4
+
